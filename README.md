@@ -16,10 +16,8 @@
   
   ##
   
-## Redes sociais 😎
- [![Linkedin: Maike](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-felipe/)
- [![Discord: Gian](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](GIANZADA#4101)
- 
+## Redes sociais �
+ [![Linkedin: Gian](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-felipe/) 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 # Linguagens que estou estudando e/ou possuo experiência
