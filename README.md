@@ -1,4 +1,4 @@
-## Olá! me chamo Gian! 💻
+## Olá, me chamo Gian! 💻
 
   <div>
   <a href="https://github.com/Gian-f">
