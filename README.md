@@ -14,7 +14,6 @@
   <img align="center" alt="Gian-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
   
-  ##
   
 ## Redes sociais
  [![Linkedin: Gian](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-felipe/) 
